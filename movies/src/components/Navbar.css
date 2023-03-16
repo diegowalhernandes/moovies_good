@@ -13,5 +13,12 @@
 }
 
 #navbar form {
-    
+    display: flex;
+    gap: .5rem;
+}
+
+#navbar input{
+    padding: 0.2rem 0.8rem;
+    border-radius: 5px;
+    border: yellow;
 }
